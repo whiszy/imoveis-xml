@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imoveis>
+    <!-- Imóveis para Aluguel -->
+    <aluguel>
+        <id_imovel>ALUG001</id_imovel>
+        <titulo>Apartamento com 3 Quartos no Centro</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG001</url_detalhes>
+        <imagem_url>https://exemplo.com/images/apto-centro.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Excelente apartamento no centro da cidade, próximo a comércio e transporte público.</descricao>
+        <preco_aluguel>2500.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>300.00</taxa_administrativa>
+        <imposto_anual>1200.00</imposto_anual>
+        <area_total>85.00</area_total>
+        <area_util>75.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>2</banheiros>
+        <suites>1</suites>
+        <garagem>1</garagem>
+        <andar_unidade>5</andar_unidade>
+        <total_andares>12</total_andares>
+        <total_predios>3</total_predios>
+        <caracteristicas>Piscina;Academia;Salão de Festas;Portaria 24h</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Centro</bairro>
+        <endereco>Rua Augusta</endereco>
+        <numero>123</numero>
+        <complemento>Ap 54</complemento>
+        <cep>01305-000</cep>
+        <latitude>-23.550520</latitude>
+        <longitude>-46.633308</longitude>
+        <nome_contato>João Silva</nome_contato>
+        <email_contato>joao@imobiliaria.com</email_contato>
+        <website>https://www.imobiliaria.com</website>
+        <logo>https://www.imobiliaria.com/logo.png</logo>
+        <telefone>+55-11-99999-9999</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG002</id_imovel>
+        <titulo>Casa com Piscina na Zona Sul</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG002</url_detalhes>
+        <imagem_url>https://exemplo.com/images/casa-zonasul.jpg</imagem_url>
+        <tipo_imovel>Casa</tipo_imovel>
+        <descricao>Linda casa com piscina e jardim, ideal para famílias.</descricao>
+        <preco_aluguel>4500.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>500.00</taxa_administrativa>
+        <imposto_anual>1800.00</imposto_anual>
+        <area_total>200.00</area_total>
+        <area_util>150.00</area_util>
+        <quartos>4</quartos>
+        <banheiros>3</banheiros>
+        <suites>2</suites>
+        <garagem>2</garagem>
+        <andar_unidade>0</andar_unidade>
+        <total_andares>1</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Piscina;Churrasqueira;Jardim;Área de Serviço</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>Rio de Janeiro</estado>
+        <cidade>Rio de Janeiro</cidade>
+        <bairro>Ipanema</bairro>
+        <endereco>Avenida Vieira Souto</endereco>
+        <numero>456</numero>
+        <complemento>Casa 2</complemento>
+        <cep>22420-000</cep>
+        <latitude>-22.984176</latitude>
+        <longitude>-43.194217</longitude>
+        <nome_contato>Maria Santos</nome_contato>
+        <email_contato>maria@imoveisrj.com</email_contato>
+        <website>https://www.imoveisrj.com</website>
+        <logo>https://www.imoveisrj.com/logo.jpg</logo>
+        <telefone>+55-21-98888-8888</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG003</id_imovel>
+        <titulo>Kitnet Mobiliado no Tatuapé</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG003</url_detalhes>
+        <imagem_url>https://exemplo.com/images/kitnet-tatuape.jpg</imagem_url>
+        <tipo_imovel>Kitnet</tipo_imovel>
+        <descricao>Kitnet mobiliado, próximo ao metrô e comércio local.</descricao>
+        <preco_aluguel>1200.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>150.00</taxa_administrativa>
+        <imposto_anual>600.00</imposto_anual>
+        <area_total>35.00</area_total>
+        <area_util>28.00</area_util>
+        <quartos>1</quartos>
+        <banheiros>1</banheiros>
+        <suites>0</suites>
+        <garagem>0</garagem>
+        <andar_unidade>3</andar_unidade>
+        <total_andares>8</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Mobiliado;Armários embutidos;Varanda</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Tatuapé</bairro>
+        <endereco>Rua Tuiuti</endereco>
+        <numero>789</numero>
+        <complemento>Bloco B</complemento>
+        <cep>03080-000</cep>
+        <latitude>-23.540000</latitude>
+        <longitude>-46.570000</longitude>
+        <nome_contato>Carlos Oliveira</nome_contato>
+        <email_contato>carlos@imoveissp.com</email_contato>
+        <website>https://www.imoveissp.com</website>
+        <logo>https://www.imoveissp.com/logo.png</logo>
+        <telefone>+55-11-97777-7777</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG004</id_imovel>
+        <titulo>Apartamento Alto Padrão em Moema</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG004</url_detalhes>
+        <imagem_url>https://exemplo.com/images/apto-moema.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Apartamento de alto padrão com acabamento de primeira qualidade.</descricao>
+        <preco_aluguel>6800.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>800.00</taxa_administrativa>
+        <imposto_anual>2500.00</imposto_anual>
+        <area_total>120.00</area_total>
+        <area_util>98.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>4</banheiros>
+        <suites>2</suites>
+        <garagem>3</garagem>
+        <andar_unidade>10</andar_unidade>
+        <total_andares>20</total_andares>
+        <total_predios>2</total_predios>
+        <caracteristicas>Piscina;Sauna;Academia;Salão de Festas;Portaria 24h</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Moema</bairro>
+        <endereco>Avenida Ibirapuera</endereco>
+        <numero>3000</numero>
+        <complemento>Ap 102</complemento>
+        <cep>04029-000</cep>
+        <latitude>-23.600000</latitude>
+        <longitude>-46.660000</longitude>
+        <nome_contato>Ana Costa</nome_contato>
+        <email_contato>ana@imoveismais.com</email_contato>
+        <website>https://www.imoveismais.com</website>
+        <logo>https://www.imoveismais.com/logo.png</logo>
+        <telefone>+55-11-96666-6666</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG005</id_imovel>
+        <titulo>Sobrado em Condomínio Fechado</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG005</url_detalhes>
+        <imagem_url>https://exemplo.com/images/sobrado-alphaville.jpg</imagem_url>
+        <tipo_imovel>Sobrado</tipo_imovel>
+        <descricao>Sobrado em condomínio fechado com completa infraestrutura.</descricao>
+        <preco_aluguel>5500.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>600.00</taxa_administrativa>
+        <imposto_anual>2200.00</imposto_anual>
+        <area_total>280.00</area_total>
+        <area_util>220.00</area_util>
+        <quartos>4</quartos>
+        <banheiros>4</banheiros>
+        <suites>3</suites>
+        <garagem>4</garagem>
+        <andar_unidade>0</andar_unidade>
+        <total_andares>2</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Piscina;Quadra Poliesportiva;Área Verde;Playground</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Barueri</cidade>
+        <bairro>Alphaville</bairro>
+        <endereco>Alameda Rio Negro</endereco>
+        <numero>500</numero>
+        <complemento></complemento>
+        <cep>06454-000</cep>
+        <latitude>-23.500000</latitude>
+        <longitude>-46.850000</longitude>
+        <nome_contato>Roberto Almeida</nome_contato>
+        <email_contato>roberto@imobiliariaalpha.com</email_contato>
+        <website>https://www.imobiliariaalpha.com</website>
+        <logo>https://www.imobiliariaalpha.com/logo.png</logo>
+        <telefone>+55-11-95555-5555</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG006</id_imovel>
+        <titulo>Studio para Estudantes</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG006</url_detalhes>
+        <imagem_url>https://exemplo.com/images/studio-vilaolimpia.jpg</imagem_url>
+        <tipo_imovel>Studio</tipo_imovel>
+        <descricao>Studio compacto e funcional, ideal para estudantes.</descricao>
+        <preco_aluguel>950.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>100.00</taxa_administrativa>
+        <imposto_anual>400.00</imposto_anual>
+        <area_total>25.00</area_total>
+        <area_util>22.00</area_util>
+        <quartos>1</quartos>
+        <banheiros>1</banheiros>
+        <suites>0</suites>
+        <garagem>0</garagem>
+        <andar_unidade>2</andar_unidade>
+        <total_andares>6</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Mobiliado;Internet inclusa;Lavanderia compartilhada</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Vila Olímpia</bairro>
+        <endereco>Rua Funchal</endereco>
+        <numero>123</numero>
+        <complemento>Studio 205</complemento>
+        <cep>04551-000</cep>
+        <latitude>-23.595000</latitude>
+        <longitude>-46.685000</longitude>
+        <nome_contato>Patrícia Mendes</nome_contato>
+        <email_contato>patricia@estudios.com</email_contato>
+        <website>https://www.estudios.com</website>
+        <logo>https://www.estudios.com/logo.png</logo>
+        <telefone>+55-11-94444-4444</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG007</id_imovel>
+        <titulo>Cobertura Duplex com Vista para o Mar</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG007</url_detalhes>
+        <imagem_url>https://exemplo.com/images/cobertura-santos.jpg</imagem_url>
+        <tipo_imovel>Cobertura</tipo_imovel>
+        <descricao>Cobertura duplex com vista panorâmica para o mar.</descricao>
+        <preco_aluguel>8200.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>950.00</taxa_administrativa>
+        <imposto_anual>3200.00</imposto_anual>
+        <area_total>180.00</area_total>
+        <area_util>155.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>4</banheiros>
+        <suites>2</suites>
+        <garagem>3</garagem>
+        <andar_unidade>15</andar_unidade>
+        <total_andares>15</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Varanda;Hidromassagem;Churrasqueira;Vista para o Mar</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Santos</cidade>
+        <bairro>Gonzaga</bairro>
+        <endereco>Avenida Ana Costa</endereco>
+        <numero>800</numero>
+        <complemento>Cobertura</complemento>
+        <cep>11060-000</cep>
+        <latitude>-23.960000</latitude>
+        <longitude>-46.330000</longitude>
+        <nome_contato>Fernanda Lima</nome_contato>
+        <email_contato>fernanda@imoveislitoral.com</email_contato>
+        <website>https://www.imoveislitoral.com</website>
+        <logo>https://www.imoveislitoral.com/logo.png</logo>
+        <telefone>+55-13-93333-3333</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG008</id_imovel>
+        <titulo>Apartamento Reformado na Bela Vista</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG008</url_detalhes>
+        <imagem_url>https://exemplo.com/images/apto-belavista.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Apartamento completamente reformado, pronto para morar.</descricao>
+        <preco_aluguel>2100.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>250.00</taxa_administrativa>
+        <imposto_anual>900.00</imposto_anual>
+        <area_total>65.00</area_total>
+        <area_util>58.00</area_util>
+        <quartos>2</quartos>
+        <banheiros>1</banheiros>
+        <suites>1</suites>
+        <garagem>1</garagem>
+        <andar_unidade>4</andar_unidade>
+        <total_andares>8</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Reformado;Armários embutidos;Portaria</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Bela Vista</bairro>
+        <endereco>Rua Treze de Maio</endereco>
+        <numero>700</numero>
+        <complemento>Ap 42</complemento>
+        <cep>01327-000</cep>
+        <latitude>-23.560000</latitude>
+        <longitude>-46.640000</longitude>
+        <nome_contato>Ricardo Nunes</nome_contato>
+        <email_contato>ricardo@imoveisbh.com</email_contato>
+        <website>https://www.imoveisbh.com</website>
+        <logo>https://www.imoveisbh.com/logo.png</logo>
+        <telefone>+55-11-92222-2222</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG009</id_imovel>
+        <titulo>Flat para Executivos</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG009</url_detalhes>
+        <imagem_url>https://exemplo.com/images/flat-berrini.jpg</imagem_url>
+        <tipo_imovel>Flat</tipo_imovel>
+        <descricao>Flat mobiliado para executivos, com serviços inclusos.</descricao>
+        <preco_aluguel>3800.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>400.00</taxa_administrativa>
+        <imposto_anual>1500.00</imposto_anual>
+        <area_total>45.00</area_total>
+        <area_util>40.00</area_util>
+        <quartos>1</quartos>
+        <banheiros>1</banheiros>
+        <suites>1</suites>
+        <garagem>1</garagem>
+        <andar_unidade>7</andar_unidade>
+        <total_andares>12</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Mobiliado;Serviço de limpeza;Internet;TV a cabo</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Brooklin</bairro>
+        <endereco>Rua Jurandir</endereco>
+        <numero>200</numero>
+        <complemento>Flat 708</complemento>
+        <cep>04565-000</cep>
+        <latitude>-23.610000</latitude>
+        <longitude>-46.690000</longitude>
+        <nome_contato>Juliana Andrade</nome_contato>
+        <email_contato>juliana@flatexecutivo.com</email_contato>
+        <website>https://www.flatexecutivo.com</website>
+        <logo>https://www.flatexecutivo.com/logo.png</logo>
+        <telefone>+55-11-91111-1111</telefone>
+    </aluguel>
+    
+    <aluguel>
+        <id_imovel>ALUG010</id_imovel>
+        <titulo>Casa em Condomínio com Área de Lazer</titulo>
+        <tipo_transacao>For Rent</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <url_detalhes>https://exemplo.com/imovel/ALUG010</url_detalhes>
+        <imagem_url>https://exemplo.com/images/casa-tambore.jpg</imagem_url>
+        <tipo_imovel>Casa</tipo_imovel>
+        <descricao>Casa em condomínio fechado com completa área de lazer.</descricao>
+        <preco_aluguel>4900.00</preco_aluguel>
+        <moeda_aluguel>BRL</moeda_aluguel>
+        <periodo_aluguel>Monthly</periodo_aluguel>
+        <taxa_administrativa>550.00</taxa_administrativa>
+        <imposto_anual>1900.00</imposto_anual>
+        <area_total>220.00</area_total>
+        <area_util>180.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>3</banheiros>
+        <suites>2</suites>
+        <garagem>2</garagem>
+        <andar_unidade>0</andar_unidade>
+        <total_andares>1</total_andares>
+        <total_predios>1</total_predios>
+        <caracteristicas>Piscina;Churrasqueira;Playground;Quadra Esportiva</caracteristicas>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Barueri</cidade>
+        <bairro>Tamboré</bairro>
+        <endereco>Alameda dos Jacarandás</endereco>
+        <numero>350</numero>
+        <complemento></complemento>
+        <cep>06460-000</cep>
+        <latitude>-23.510000</latitude>
+        <longitude>-46.830000</longitude>
+        <nome_contato>Marcos Ribeiro</nome_contato>
+        <email_contato>marcos@imoveisbarueri.com</email_contato>
+        <website>https://www.imoveisbarueri.com</website>
+        <logo>https://www.imoveisbarueri.com/logo.png</logo>
+        <telefone>+55-11-90000-0000</telefone>
+    </aluguel>
+    
+    <!-- Imóveis para Venda -->
+    <venda>
+        <id_imovel>VENDA001</id_imovel>
+        <titulo>Apartamento de Luxo com Vista para o Mar</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/apto-luxo.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Apartamento de alto padrão com vista panorâmica para o mar.</descricao>
+        <preco>850000.00</preco>
+        <area_total>120.00</area_total>
+        <area_util>95.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>3</banheiros>
+        <suites>2</suites>
+        <garagem>2</garagem>
+        <pais>Brasil</pais>
+        <estado>Santa Catarina</estado>
+        <cidade>Florianópolis</cidade>
+        <bairro>Jurerê</bairro>
+        <endereco>Rua das Gaivotas</endereco>
+        <numero>789</numero>
+        <latitude>-27.430510</latitude>
+        <longitude>-48.499220</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA002</id_imovel>
+        <titulo>Sobrado no Jardins</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/sobrado-jardins.jpg</imagem_url>
+        <tipo_imovel>Sobrado</tipo_imovel>
+        <descricao>Sobrado em ótima localização, próximo ao metrô e comércio.</descricao>
+        <preco>1200000.00</preco>
+        <area_total>180.00</area_total>
+        <area_util>150.00</area_util>
+        <quartos>4</quartos>
+        <banheiros>4</banheiros>
+        <suites>3</suites>
+        <garagem>3</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Jardins</bairro>
+        <endereco>Alameda Santos</endereco>
+        <numero>2100</numero>
+        <latitude>-23.563200</latitude>
+        <longitude>-46.654390</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA003</id_imovel>
+        <titulo>Casa com Piscina em Condomínio Fechado</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/casa-alphaville-venda.jpg</imagem_url>
+        <tipo_imovel>Casa</tipo_imovel>
+        <descricao>Casa espaçosa em condomínio fechado com piscina e área gourmet.</descricao>
+        <preco>1850000.00</preco>
+        <area_total>350.00</area_total>
+        <area_util>280.00</area_util>
+        <quartos>5</quartos>
+        <banheiros>5</banheiros>
+        <suites>4</suites>
+        <garagem>4</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Barueri</cidade>
+        <bairro>Alphaville</bairro>
+        <endereco>Alameda Amazonas</endereco>
+        <numero>1230</numero>
+        <latitude>-23.495000</latitude>
+        <longitude>-46.848000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA004</id_imovel>
+        <titulo>Apartamento com Varanda Gourmet</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/apto-vilanova.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Apartamento novo com varanda gourmet e ótima localização.</descricao>
+        <preco>620000.00</preco>
+        <area_total>92.00</area_total>
+        <area_util>78.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>2</banheiros>
+        <suites>1</suites>
+        <garagem>2</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Vila Nova Conceição</bairro>
+        <endereco>Rua Bandeira Paulista</endereco>
+        <numero>500</numero>
+        <latitude>-23.597000</latitude>
+        <longitude>-46.670000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA005</id_imovel>
+        <titulo>Terreno Residencial</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/terreno-cotia.jpg</imagem_url>
+        <tipo_imovel>Terreno</tipo_imovel>
+        <descricao>Terreno residencial plano em condomínio fechado.</descricao>
+        <preco>280000.00</preco>
+        <area_total>450.00</area_total>
+        <area_util>450.00</area_util>
+        <quartos>0</quartos>
+        <banheiros>0</banheiros>
+        <suites>0</suites>
+        <garagem>0</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Cotia</cidade>
+        <bairro>Rio Cotia</bairro>
+        <endereco>Estrada do Rio Cotia</endereco>
+        <numero>s/n</numero>
+        <latitude>-23.620000</latitude>
+        <longitude>-46.920000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA006</id_imovel>
+        <titulo>Kitnet de Investimento</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/kitnet-vilaolimpia-venda.jpg</imagem_url>
+        <tipo_imovel>Kitnet</tipo_imovel>
+        <descricao>Kitnet em prédio novo, ótimo para investimento.</descricao>
+        <preco>230000.00</preco>
+        <area_total>38.00</area_total>
+        <area_util>32.00</area_util>
+        <quartos>1</quartos>
+        <banheiros>1</banheiros>
+        <suites>0</suites>
+        <garagem>1</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Vila Olímpia</bairro>
+        <endereco>Rua Professor Atílio Innocenti</endereco>
+        <numero>800</numero>
+        <latitude>-23.592000</latitude>
+        <longitude>-46.685000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA007</id_imovel>
+        <titulo>Cobertura Triplex no Itaim Bibi</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/cobertura-itaim.jpg</imagem_url>
+        <tipo_imovel>Cobertura</tipo_imovel>
+        <descricao>Cobertura triplex de alto padrão com piscina privativa.</descricao>
+        <preco>4200000.00</preco>
+        <area_total>320.00</area_total>
+        <area_util>290.00</area_util>
+        <quartos>4</quartos>
+        <banheiros>6</banheiros>
+        <suites>3</suites>
+        <garagem>4</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Itaim Bibi</bairro>
+        <endereco>Rua João Cachoeira</endereco>
+        <numero>1500</numero>
+        <latitude>-23.585000</latitude>
+        <longitude>-46.680000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA008</id_imovel>
+        <titulo>Apartamento com 2 Quartos na Freguesia</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/apto-freguesia.jpg</imagem_url>
+        <tipo_imovel>Apartamento</tipo_imovel>
+        <descricao>Apartamento bem localizado, próximo ao metrô e comércio.</descricao>
+        <preco>380000.00</preco>
+        <area_total>65.00</area_total>
+        <area_util>58.00</area_util>
+        <quartos>2</quartos>
+        <banheiros>1</banheiros>
+        <suites>1</suites>
+        <garagem>1</garagem>
+        <pais>Brasil</pais>
+        <estado>Rio de Janeiro</estado>
+        <cidade>Rio de Janeiro</cidade>
+        <bairro>Freguesia</bairro>
+        <endereco>Rua Ipiíba</endereco>
+        <numero>300</numero>
+        <latitude>-22.880000</latitude>
+        <longitude>-43.340000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA009</id_imovel>
+        <titulo>Casa Geminada com Jardim</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Standard</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/casa-geminada.jpg</imagem_url>
+        <tipo_imovel>Casa</tipo_imovel>
+        <descricao>Casa geminada com jardim e ótimo acabamento.</descricao>
+        <preco>750000.00</preco>
+        <area_total>180.00</area_total>
+        <area_util>150.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>3</banheiros>
+        <suites>2</suites>
+        <garagem>2</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>São Paulo</cidade>
+        <bairro>Vila Madalena</bairro>
+        <endereco>Rua Aspicuelta</endereco>
+        <numero>600</numero>
+        <latitude>-23.550000</latitude>
+        <longitude>-46.690000</longitude>
+    </venda>
+    
+    <venda>
+        <id_imovel>VENDA010</id_imovel>
+        <titulo>Sítio para Lazer</titulo>
+        <tipo_transacao>For Sale</tipo_transacao>
+        <tipo_publicacao>Premium</tipo_publicacao>
+        <imagem_url>https://exemplo.com/images/sitio-mairipora.jpg</imagem_url>
+        <tipo_imovel>Sítio</tipo_imovel>
+        <descricao>Sítio com casa, piscina e área para plantio.</descricao>
+        <preco>950000.00</preco>
+        <area_total>25000.00</area_total>
+        <area_util>180.00</area_util>
+        <quartos>3</quartos>
+        <banheiros>2</banheiros>
+        <suites>1</suites>
+        <garagem>2</garagem>
+        <pais>Brasil</pais>
+        <estado>São Paulo</estado>
+        <cidade>Mairiporã</cidade>
+        <bairro>Serra</bairro>
+        <endereco>Estrada da Serra</endereco>
+        <numero>s/n</numero>
+        <latitude>-23.320000</latitude>
+        <longitude>-46.590000</longitude>
+    </venda>
+</imoveis>
