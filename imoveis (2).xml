@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imoveis>
+  <imoveis_aluguel>
+    <id_imovel>ALG8432</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>2538.22</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>333.59</taxa_administrativa>
+    <imposto_anual>1217.08</imposto_anual>
+    <area_total>72</area_total>
+    <area_util>174</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>1</suites>
+    <garagem>1</garagem>
+    <andar_unidade>9</andar_unidade>
+    <total_andares>12</total_andares>
+    <total_predios>2</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>137</numero>
+    <complemento>Apto 278</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG5247</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>2549.3</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>737.77</taxa_administrativa>
+    <imposto_anual>3437.75</imposto_anual>
+    <area_total>208</area_total>
+    <area_util>128</area_util>
+    <quartos>5</quartos>
+    <banheiros>4</banheiros>
+    <suites>3</suites>
+    <garagem>0</garagem>
+    <andar_unidade>7</andar_unidade>
+    <total_andares>14</total_andares>
+    <total_predios>1</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>105</numero>
+    <complemento>Apto 155</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG6935</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>5338.84</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>258.52</taxa_administrativa>
+    <imposto_anual>3152.56</imposto_anual>
+    <area_total>52</area_total>
+    <area_util>176</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>2</suites>
+    <garagem>3</garagem>
+    <andar_unidade>4</andar_unidade>
+    <total_andares>14</total_andares>
+    <total_predios>4</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>643</numero>
+    <complemento>Apto 422</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG9309</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>7239.59</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>260.3</taxa_administrativa>
+    <imposto_anual>1001.73</imposto_anual>
+    <area_total>116</area_total>
+    <area_util>82</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>1</suites>
+    <garagem>1</garagem>
+    <andar_unidade>18</andar_unidade>
+    <total_andares>25</total_andares>
+    <total_predios>3</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>853</numero>
+    <complemento>Apto 309</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG7191</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>5740.66</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>776.87</taxa_administrativa>
+    <imposto_anual>2230.65</imposto_anual>
+    <area_total>201</area_total>
+    <area_util>131</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>1</suites>
+    <garagem>3</garagem>
+    <andar_unidade>14</andar_unidade>
+    <total_andares>5</total_andares>
+    <total_predios>1</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>674</numero>
+    <complemento>Apto 173</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG6068</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>1495.98</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>469.1</taxa_administrativa>
+    <imposto_anual>3618.26</imposto_anual>
+    <area_total>60</area_total>
+    <area_util>149</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>0</suites>
+    <garagem>2</garagem>
+    <andar_unidade>17</andar_unidade>
+    <total_andares>9</total_andares>
+    <total_predios>2</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>860</numero>
+    <complemento>Apto 414</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG5757</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>4586.59</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>770.32</taxa_administrativa>
+    <imposto_anual>2791.02</imposto_anual>
+    <area_total>209</area_total>
+    <area_util>197</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>1</suites>
+    <garagem>2</garagem>
+    <andar_unidade>13</andar_unidade>
+    <total_andares>16</total_andares>
+    <total_predios>4</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>122</numero>
+    <complemento>Apto 192</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG9548</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>2873.37</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>491.93</taxa_administrativa>
+    <imposto_anual>3080.9</imposto_anual>
+    <area_total>274</area_total>
+    <area_util>191</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>2</suites>
+    <garagem>3</garagem>
+    <andar_unidade>14</andar_unidade>
+    <total_andares>24</total_andares>
+    <total_predios>4</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>774</numero>
+    <complemento>Apto 304</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG7865</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>7829.91</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>208.92</taxa_administrativa>
+    <imposto_anual>1717.99</imposto_anual>
+    <area_total>87</area_total>
+    <area_util>92</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>1</garagem>
+    <andar_unidade>10</andar_unidade>
+    <total_andares>17</total_andares>
+    <total_predios>2</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>626</numero>
+    <complemento>Apto 480</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG2060</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>4182.11</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>548.44</taxa_administrativa>
+    <imposto_anual>1878.11</imposto_anual>
+    <area_total>86</area_total>
+    <area_util>198</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>0</suites>
+    <garagem>2</garagem>
+    <andar_unidade>14</andar_unidade>
+    <total_andares>16</total_andares>
+    <total_predios>2</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>249</numero>
+    <complemento>Apto 133</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG4684</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>3638.45</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>244.53</taxa_administrativa>
+    <imposto_anual>3034.12</imposto_anual>
+    <area_total>160</area_total>
+    <area_util>46</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>2</suites>
+    <garagem>0</garagem>
+    <andar_unidade>5</andar_unidade>
+    <total_andares>24</total_andares>
+    <total_predios>3</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>50</numero>
+    <complemento>Apto 364</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG9100</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>4603.05</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>718.52</taxa_administrativa>
+    <imposto_anual>2747.27</imposto_anual>
+    <area_total>234</area_total>
+    <area_util>92</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>4</suites>
+    <garagem>2</garagem>
+    <andar_unidade>14</andar_unidade>
+    <total_andares>23</total_andares>
+    <total_predios>1</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>61</numero>
+    <complemento>Apto 130</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG7334</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>1664.31</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>546.76</taxa_administrativa>
+    <imposto_anual>4822.06</imposto_anual>
+    <area_total>192</area_total>
+    <area_util>106</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>0</suites>
+    <garagem>0</garagem>
+    <andar_unidade>12</andar_unidade>
+    <total_andares>11</total_andares>
+    <total_predios>2</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>900</numero>
+    <complemento>Apto 415</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG6162</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>5483.41</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>389.39</taxa_administrativa>
+    <imposto_anual>4252.26</imposto_anual>
+    <area_total>258</area_total>
+    <area_util>193</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>3</garagem>
+    <andar_unidade>10</andar_unidade>
+    <total_andares>8</total_andares>
+    <total_predios>3</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>377</numero>
+    <complemento>Apto 202</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_aluguel>
+    <id_imovel>ALG3158</id_imovel>
+    <titulo>Apartamento para Alugar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <url_detalhes>https://www.imobiliariaficticia.com/aluguel/detalhes</url_detalhes>
+    <imagem_url>https://www.imobiliariaficticia.com/img/apto1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento moderno com excelente localização.</descricao>
+    <preco_aluguel>5322.53</preco_aluguel>
+    <moeda_aluguel>BRL</moeda_aluguel>
+    <periodo_aluguel>Mensal</periodo_aluguel>
+    <taxa_administrativa>656.18</taxa_administrativa>
+    <imposto_anual>2180.57</imposto_anual>
+    <area_total>149</area_total>
+    <area_util>153</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>2</suites>
+    <garagem>1</garagem>
+    <andar_unidade>8</andar_unidade>
+    <total_andares>10</total_andares>
+    <total_predios>3</total_predios>
+    <caracteristicas>Piscina, Academia, Salão de Festas</caracteristicas>
+    <pais>Brasil</pais>
+    <estado>SP</estado>
+    <cidade>São Paulo</cidade>
+    <bairro>Centro</bairro>
+    <endereco>Rua Exemplo</endereco>
+    <numero>883</numero>
+    <complemento>Apto 138</complemento>
+    <cep>01000-000</cep>
+    <latitude>-23.5505</latitude>
+    <longitude>-46.6333</longitude>
+    <nome_contato>Imobiliária Fictícia</nome_contato>
+    <email_contato>contato@imobiliariaficticia.com</email_contato>
+    <website>https://www.imobiliariaficticia.com</website>
+    <logo>https://www.imobiliariaficticia.com/logo.png</logo>
+    <telefone>+55 11 99999-9999</telefone>
+  </imoveis_aluguel>
+  <imoveis_venda>
+    <id_imovel>VEN3059</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1000709.89</preco>
+    <area_total>370</area_total>
+    <area_util>132</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>2</suites>
+    <garagem>1</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>814</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN4627</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1262581.65</preco>
+    <area_total>231</area_total>
+    <area_util>210</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>2</suites>
+    <garagem>2</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>773</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN5737</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2175149.33</preco>
+    <area_total>376</area_total>
+    <area_util>223</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>2</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>214</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN2809</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2393507.8</preco>
+    <area_total>243</area_total>
+    <area_util>147</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>1</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>447</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN5565</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>870871.98</preco>
+    <area_total>384</area_total>
+    <area_util>158</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>362</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN9077</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1650852.63</preco>
+    <area_total>355</area_total>
+    <area_util>116</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>276</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN3678</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2634800.67</preco>
+    <area_total>323</area_total>
+    <area_util>80</area_util>
+    <quartos>1</quartos>
+    <banheiros>1</banheiros>
+    <suites>1</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>571</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN3957</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1164852.89</preco>
+    <area_total>179</area_total>
+    <area_util>183</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>3</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>458</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN9182</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1590429.84</preco>
+    <area_total>314</area_total>
+    <area_util>133</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>2</suites>
+    <garagem>3</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>405</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN7069</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2844366.06</preco>
+    <area_total>331</area_total>
+    <area_util>87</area_util>
+    <quartos>3</quartos>
+    <banheiros>2</banheiros>
+    <suites>0</suites>
+    <garagem>0</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>619</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN5072</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2757147.77</preco>
+    <area_total>88</area_total>
+    <area_util>52</area_util>
+    <quartos>5</quartos>
+    <banheiros>4</banheiros>
+    <suites>2</suites>
+    <garagem>1</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>166</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN2385</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>621064.54</preco>
+    <area_total>233</area_total>
+    <area_util>228</area_util>
+    <quartos>5</quartos>
+    <banheiros>4</banheiros>
+    <suites>2</suites>
+    <garagem>1</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>934</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN3395</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>1570645.3</preco>
+    <area_total>203</area_total>
+    <area_util>246</area_util>
+    <quartos>5</quartos>
+    <banheiros>4</banheiros>
+    <suites>5</suites>
+    <garagem>2</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>380</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN4628</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2762655.85</preco>
+    <area_total>373</area_total>
+    <area_util>143</area_util>
+    <quartos>2</quartos>
+    <banheiros>1</banheiros>
+    <suites>0</suites>
+    <garagem>1</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>524</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+  <imoveis_venda>
+    <id_imovel>VEN9495</id_imovel>
+    <titulo>Apartamento à Venda</titulo>
+    <tipo_transacao>For Sale</tipo_transacao>
+    <tipo_publicacao>Standard</tipo_publicacao>
+    <imagem_url>https://www.imobiliariaficticia.com/img/venda1.jpg</imagem_url>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <descricao>Apartamento espaçoso em bairro nobre.</descricao>
+    <preco>2338328.98</preco>
+    <area_total>189</area_total>
+    <area_util>171</area_util>
+    <quartos>4</quartos>
+    <banheiros>3</banheiros>
+    <suites>4</suites>
+    <garagem>3</garagem>
+    <pais>Brasil</pais>
+    <estado>RJ</estado>
+    <cidade>Rio de Janeiro</cidade>
+    <bairro>Copacabana</bairro>
+    <endereco>Avenida Atlântica</endereco>
+    <numero>979</numero>
+    <latitude>-22.9711</latitude>
+    <longitude>-43.1822</longitude>
+  </imoveis_venda>
+</imoveis>
