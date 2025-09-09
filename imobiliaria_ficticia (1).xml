@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Listings>
+  <Listing>
+    <id_imovel>12345</id_imovel>
+    <titulo>Apartamento Moderno com Vista para o Mar</titulo>
+    <tipo_transacao>For Rent</tipo_transacao>
+    <tipo_publicacao>Exclusive</tipo_publicacao>
+    <url_detalhes>https://exemplo.com/imovel/12345</url_detalhes>
+    <imagem_url>https://exemplo.com/imagens/imovel12345.jpg</imagem_url>
+    <DetalhesImovel>
+      <tipo_imovel>Apartment</tipo_imovel>
+      <descricao>Lindo apartamento com vista para o mar, totalmente mobiliado e pronto para morar.</descricao>
+      <preco_aluguel>3500.00</preco_aluguel>
+      <moeda_aluguel>BRL</moeda_aluguel>
+      <periodo_aluguel>Monthly</periodo_aluguel>
+      <taxa_administrativa>300.00</taxa_administrativa>
+      <imposto_anual>1200.00</imposto_anual>
+      <area_total>120.0</area_total>
+      <area_util>100.0</area_util>
+      <quartos>3</quartos>
+      <banheiros>2</banheiros>
+      <suites>1</suites>
+      <garagem>2</garagem>
+      <andar_unidade>5</andar_unidade>
+      <total_andares>10</total_andares>
+      <total_predios>2</total_predios>
+      <caracteristicas>
+        <Feature>Piscina</Feature>
+        <Feature>Churrasqueira</Feature>
+        <Feature>Academia</Feature>
+      </caracteristicas>
+    </DetalhesImovel>
+    <Localizacao>
+      <pais>Brasil</pais>
+      <estado>BA</estado>
+      <cidade>Salvador</cidade>
+      <bairro>Barra</bairro>
+      <endereco>Av. Oceânica</endereco>
+      <numero>123</numero>
+      <complemento>Apto 501</complemento>
+      <cep>40140-130</cep>
+      <latitude>-13.0125</latitude>
+      <longitude>-38.5324</longitude>
+    </Localizacao>
+    <Contato>
+      <nome_contato>Imobiliária Fictícia</nome_contato>
+      <email_contato>contato@ficticia.com</email_contato>
+      <website>https://ficticia.com</website>
+      <logo>https://ficticia.com/logo.png</logo>
+      <telefone>+55 71 99999-9999</telefone>
+    </Contato>
+  </Listing>
+</Listings>
